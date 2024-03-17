@@ -7,5 +7,5 @@ My own cloud resume, following the [A Cloud Guru project video.](https://youtu.b
 - main.js contains the visitor counter code.
 
 ```js
-const
+(code here if I want to include any)
 ```
